@@ -1,9 +1,9 @@
 # vrinda-store-analysis-excel
 
-Objective - 
+## Objective - 
 Vrindra store wants to create an annual sales report for 2024. So that, Vrinda can understand their customers and grow more sales in 2025.
 
-Questions - 
+### Questions - 
 
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
