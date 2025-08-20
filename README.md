@@ -29,7 +29,7 @@ Target **Women** customers of age group (**30-49** yrs) living in **Maharashtra,
 
 ## Dashboard Screenshots -
 
-
+![Dashboard Preview](https://github.com/alankritasingh100/vrinda-store-analysis-excel/blob/main/Vrinda_Store_Report_Dashboard.png)
 
 
 
